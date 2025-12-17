@@ -1,0 +1,7 @@
+{
+  "name": "Cleopatra's Guide",
+  "description": "An all-in-one travel companion for visitors to Egypt, featuring real-time currency conversion and instant Egyptian Arabic voice-to-voice translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
